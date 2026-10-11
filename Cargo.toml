@@ -1,0 +1,9 @@
+[package]
+name = "otorama"
+version = "0.0.0"
+edition = "2024"
+description = "Wayland music visualizer with live shader overlays"
+license = "Unlicense"
+repository = "https://github.com/cogikyo/otorama"
+
+[dependencies]
